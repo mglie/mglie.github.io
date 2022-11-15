@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mglie.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-11-15T02:20:37.286Z</updated>
+    <title>麦秆</title>
+    <updated>2022-11-15T06:28:39.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mglie.github.io"/>
     <link rel="self" href="https://mglie.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个囚徒的自白</subtitle>
     <logo>https://mglie.github.io/images/avatar.png</logo>
     <icon>https://mglie.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 麦秆</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://mglie.github.io/post/ce-shi/</id>
